@@ -1,0 +1,30 @@
+package english;
+
+public class English {
+
+	public static void main(String[] args) {
+		int engcon = 0;
+		int engvow = 0;
+		int korcon = 0;
+		int korvow = 0;
+		
+		engcon = 20;
+		engvow = 5;
+		korcon = 14;
+		korvow = 10;
+		
+		System.out.println(engcon + engvow);
+		System.out.println(korcon + korvow);
+		
+				
+		
+		
+			
+		
+		
+				
+		
+
+	}
+
+}

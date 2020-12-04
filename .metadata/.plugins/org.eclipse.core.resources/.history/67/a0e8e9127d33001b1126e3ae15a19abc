@@ -1,0 +1,12 @@
+package hellojava3;
+
+public class Hello3 {
+
+	public static void main(String[] args) {
+	System.out.print("±è°¡Çö");
+	System.out.print("27");
+	System.out.print("°æ»ê");
+
+	}
+
+}

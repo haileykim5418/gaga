@@ -1,0 +1,12 @@
+package english;
+
+public class English {
+
+	public static void main(String[] args) {
+		char a = 'a'
+		char e = 'e'
+		
+
+	}
+
+}
